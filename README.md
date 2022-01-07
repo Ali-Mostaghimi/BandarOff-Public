@@ -1,5 +1,5 @@
 # BandarOff-Public
-This is just a repository to present this project for my cv.
+This is just a repository to present BndOff project for my cv.
 
 ## Descirption
 Business oweners by using this application can add discount tickets to sell their products more effiently, scan discount tickets as qr-code to expire tickets, managing their own wallet, view related transactions and etc. 
